@@ -1,3 +1,6 @@
+body{
+    padding-bottom: 50px;
+}
 #main {
     background-color: #1a1b26;
 }
@@ -109,14 +112,12 @@ p {
 	background-color: #069;
     text-decoration: none;
 }
-footer{
-    bottom: 0;
+
+.footer{
     background-color: #212529;
-    position: absolute;
-    height: auto;
     left: 0;
     right: 0;
-    margin-top: 25px;
+    position:absolute;
 }
 .footer-content{
     display: flex;
@@ -129,7 +130,6 @@ footer{
 
 #mu{
     margin-top: 50px;
-    margin-left: -10%;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -164,4 +164,7 @@ ul{
     max-width: 70%;
     font-size: large; 
     text-align: center;
+}
+body{
+    height: 100%;
 }
