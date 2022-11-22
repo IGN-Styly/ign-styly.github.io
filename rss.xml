@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="rss.css" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+
+<channel>
+<title>IGN-Styly's RSS feed!</title>
+<description>A blog, some news and some cool stuff</description>
+<language>en-us</language>
+<link>http://ign-styly.xyz/rss.xml</link>
+<atom:link href="http://ign-styly/rss.xml" rel="self" type="application/rss+xml" />
+
+<!-- LB -->
+
+<item>
+<title>    Archie | Blog</title>
+<guid>https://ign-styly.xyz/./../arch/articles/002.html</guid>
+<link>https://ign-styly.xyz/./../arch/articles/002.html</link>
+<pubDate>Tue, 22 Nov 2022 16:52:52 -0300</pubDate>
+<description><![CDATA[<!DOCTYPE html>
+<html>
+<head>
+    <title>Archie | Blog</title>
+    <link rel="icon" type="image/x-icon" href="../arch.svg">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Code&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../styles.css">
+    </link>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
+</head>
+<nav class="navbar navbar-expand-lg bg-dark">
+    <div class="logo">
+        <a class="navbar-brand" id="txt" href="#">
+            <img src="../arch.svg" alt="Bootstrap" width="30" height="30">
+            Archie
+        </a>
+    </div>
+</nav>
+<div id="menu">
+    <a href="../index.html">home</a>
+    <a href="../blog.html"><b>blog</b></a>
+    <a href="https://github.com/IGN-Styly/dwm" target="_blank">dwm</a>
+    <a href="https://github.com/IGN-Styly/slock" target="_blank">slock</a>
+    <a href="https://github.com/IGN-Styly/dmenu" target="_blank">dmenu</a>
+    <span class="right">
+        <a href="https://github.com/IGN-Styly" target="_blank">source</a>
+    </span>
+</div>
+<body id="main">
+    <div id="mu">
+        <p style="text-align: left; margin-left: 10%;" class="cmt">// The web is Bloated</p>
+    </div>
+    <p class="art" style="text-align:left; margin-left:10%">
+        Today i was using the web and noticed some sites only use 10KB and some used 2MB, which is ridiculus if a fully
+        functional site that adds many features like youtube can be 2KB why cant youtube itself be 2KB, even so the 2KB
+        site has more features?
+    </p>
+    <p class="art" style="text-align:left; margin-left:10%">You might say its because youtube is better, it has more
+        features but this isn't true. Other factors may be bandwidth but the average internet speed around the globe is
+        only 1MB/s</p>
+    <p class="art" style="text-align:left; margin-left:10%;font-size:x-large;">How can we fix this?</p>
+    <p class="art" style="text-align:left; margin-left:10%;">First we should start by making use of CSS and HTML only to
+        remove most of bloat which is Javascript, then we have to educate the Developers on bloat so they can make better web
+        apps and websites for their users, so remote areas can access critical and not critical services via the
+        internet.</p>
+    
+]]></description>
+</item>
+
+
+<item>
+<title>    Archie | Blog</title>
+<guid>https://ign-styly.xyz/./../arch/articles/001.html</guid>
+<link>https://ign-styly.xyz/./../arch/articles/001.html</link>
+<pubDate>Tue, 22 Nov 2022 16:52:47 -0300</pubDate>
+<description><![CDATA[<!DOCTYPE html>
+<html>
+<head>
+    <title>Archie | Blog</title>
+    <link rel="icon" type="image/x-icon" href="../arch.svg">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Code&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../styles.css">
+    </link>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
+</head>
+<nav class="navbar navbar-expand-lg bg-dark">
+    <div class="logo">
+        <a class="navbar-brand" id="txt" href="#">
+            <img src="../arch.svg" alt="Bootstrap" width="30" height="30">
+            Archie
+        </a>
+    </div>
+</nav>
+<div id="menu">
+    <a href="../index.html">home</a>
+    <a href="../blog.html"><b>blog</b></a>
+    <a href="https://github.com/IGN-Styly/dwm" target="_blank">dwm</a>
+    <a href="https://github.com/IGN-Styly/slock" target="_blank">slock</a>
+    <a href="https://github.com/IGN-Styly/dmenu" target="_blank">dmenu</a>
+    <span class="right">
+        <a href="https://github.com/IGN-Styly" target="_blank">source</a>
+    </span>
+</div>
+<body id="main">
+    <div id="mu">
+        <p style="text-align: left; margin-left: 10%;" class="cmt">// Pure HTML and CSS wins over bloated Javascript
+            based websites</p>
+    </div>
+    <p class="art" style="text-align:left; margin-left:10%">Today the final Next js, Angular, Vue, Nuxt, React and
+        others in a benchmark to see which one is better for the web, basic HTML and CSS ended up winning. For that we have to
+        say that Javascript is Bloated just like most web browsers and for that reason i recomend surf as default browser
+        which the suckless guys made. I also have to add that this margin of a result was of around 300% without accounting for the file size, which is very unexpeted that Web assembly would become the best option toguether with default html and css. </p>
+]]></description>
+</item>
+
+
+</channel>
+</rss>
+
