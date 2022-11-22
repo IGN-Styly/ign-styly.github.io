@@ -19,7 +19,7 @@
 <description><![CDATA[<!DOCTYPE html>
 <html>
 <head>
-    <title>Archie | Blog</title>
+    <title>The Web is Bloated</title>
     <link rel="icon" type="image/x-icon" href="../arch.svg">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -31,24 +31,6 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
 </head>
-<nav class="navbar navbar-expand-lg bg-dark">
-    <div class="logo">
-        <a class="navbar-brand" id="txt" href="#">
-            <img src="../arch.svg" alt="Bootstrap" width="30" height="30">
-            Archie
-        </a>
-    </div>
-</nav>
-<div id="menu">
-    <a href="../index.html">home</a>
-    <a href="../blog.html"><b>blog</b></a>
-    <a href="https://github.com/IGN-Styly/dwm" target="_blank">dwm</a>
-    <a href="https://github.com/IGN-Styly/slock" target="_blank">slock</a>
-    <a href="https://github.com/IGN-Styly/dmenu" target="_blank">dmenu</a>
-    <span class="right">
-        <a href="https://github.com/IGN-Styly" target="_blank">source</a>
-    </span>
-</div>
 <body id="main">
     <div id="mu">
         <p style="text-align: left; margin-left: 10%;" class="cmt">// The web is Bloated</p>
@@ -79,7 +61,7 @@
 <description><![CDATA[<!DOCTYPE html>
 <html>
 <head>
-    <title>Archie | Blog</title>
+    <title>Why pure HTML and CSS is better</title>
     <link rel="icon" type="image/x-icon" href="../arch.svg">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -91,24 +73,6 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
 </head>
-<nav class="navbar navbar-expand-lg bg-dark">
-    <div class="logo">
-        <a class="navbar-brand" id="txt" href="#">
-            <img src="../arch.svg" alt="Bootstrap" width="30" height="30">
-            Archie
-        </a>
-    </div>
-</nav>
-<div id="menu">
-    <a href="../index.html">home</a>
-    <a href="../blog.html"><b>blog</b></a>
-    <a href="https://github.com/IGN-Styly/dwm" target="_blank">dwm</a>
-    <a href="https://github.com/IGN-Styly/slock" target="_blank">slock</a>
-    <a href="https://github.com/IGN-Styly/dmenu" target="_blank">dmenu</a>
-    <span class="right">
-        <a href="https://github.com/IGN-Styly" target="_blank">source</a>
-    </span>
-</div>
 <body id="main">
     <div id="mu">
         <p style="text-align: left; margin-left: 10%;" class="cmt">// Pure HTML and CSS wins over bloated Javascript
